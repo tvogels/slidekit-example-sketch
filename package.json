@@ -15,7 +15,7 @@
     "parcel-resolver-glob-slidekit": "^2.2.1",
     "parcel-transformer-markdown": "^2.0.1",
     "parcel-transformer-slidekit-sketch": "^0.0.1",
-    "parcel-transformer-slidekit-svg": "^0.0.5",
+    "parcel-transformer-slidekit-svg": "^0.0.6",
     "slidekit": "^0.0.3"
   }
 }
