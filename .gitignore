@@ -1,3 +1,4 @@
 .parcel-cache
+.slidekit-cache
 node_modules
 dist/
