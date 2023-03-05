@@ -16,6 +16,6 @@
     "parcel-transformer-markdown": "^2.0.1",
     "parcel-transformer-slidekit-sketch": "^0.0.6",
     "parcel-transformer-slidekit-svg": "^0.0.9",
-    "slidekit": "^0.0.7"
+    "slidekit": "^0.0.9"
   }
 }
